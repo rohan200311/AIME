@@ -1,0 +1,7 @@
+{
+  "name": "AIME Dashboard",
+  "description": "A comprehensive administrative frontend for the Automated Iteration Mailing Engine (AIME). It visualizes the 7-stage escalation workflow, simulates time-based triggers, and utilizes Google Gemini models for intelligent issue analysis, email drafting, and text-to-speech alerts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
